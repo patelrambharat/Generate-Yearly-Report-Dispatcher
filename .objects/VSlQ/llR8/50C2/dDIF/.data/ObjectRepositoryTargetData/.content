@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="O_-PTxMqvUysTGtHFQN-PQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/home" CVScreenId="c08db305-409e-4f06-9b38-e329ede189bc" CvTextArea="1347, 263, 40, 13" CvTextArgument="Log Out" CvType="Text" DesignTimeRectangle="1338, 251, 60, 38" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='Log Out' parentid='bs-example-navbar-collapse-1' tag='A' /&gt;" Guid="4178dfd9-245e-40eb-a249-29f99bdd7b66" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAEAAAAAqCAYAAAADBl3iAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAE8SURBVGhD7ZXBDYMwDEU5Mgd7ZAyyQSvRHcIGGSETcubsqgmB4JJCaUuRvpHe5WNC/KxA0fc9IVN0XUfIFFVVETIigAdoiAAeoCECeICGCOABGiKAB2iIAB6gIQJ4sJnakHOGNM8/RLeOnItYatRzzRxNZlPdMqcS4Ju3DamY+XesNKcasms1L/iBAEWNXZigrw+ZaS25Vs+fyzTipfjax6QdmTrk6vZY4zq9KxX3Bl8XMG04rUk3PwjiAjLr+dw3tyRAZ8Vt5csCQnNxk+P5vMxrx82vrockINPI6yNwOgEfHIHVj2B4zt7UfI3/Ckh/WbGpnR/BAT/ZzG9wupeuEeQe/xHcTTpJfu94DhIwTCmyc1q/4CAB50UE8AANEcADNEQAD9AQATxAQwTwAA0RwAM0REBZloRMQeDXHRL7EC+nmBpeAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Dashboard' /&gt;" SearchSteps="Selector, Image, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="f3470f80-8968-4c0b-aca7-7b0cdcd59468" CvTextArea="1347, 263, 40, 13" CvTextArgument="Log Out" CvType="Text" DesignTimeRectangle="1347, 263, 40, 13" ElementType="Text" Guid="1c5e7e84-32e8-4a05-a2e6-cf3ba8cf6216" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="8d1e69f330666d37d7e93cf7a7f9a6f6.png" xmlns="">0Z-_zAva8AEm8QYnjs0gVjw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

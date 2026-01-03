@@ -1,0 +1,6 @@
+{
+  "Name": "REF_CSH_Dispatcher",
+  "ProjectType": "Process",
+  "Description": "REF_CSH_Dispatcher",
+  "MainFile": "Main.xaml"
+}

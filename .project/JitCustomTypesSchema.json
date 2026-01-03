@@ -1,0 +1,47 @@
+{
+  "exportedBy": null,
+  "bundleHash": null,
+  "version": "1.0.0.0",
+  "jitAssemblyCompilerCommands": [
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 1,
+        "idRef": "NExtractDataGeneric`1_1",
+        "hash": "NExtractDataGeneric`1_1|DataTable|f5uQtzpnipGV9o93Xp7RlezdAynADHlGu4d3ba3IA",
+        "dataType": "System.Data.DataTable, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Actions",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "WIID",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Description",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Type",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Status",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Date",
+            "dataType": "System.String, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataTable1",
+        "hash": "NExtractDataGeneric`1_1|DataTable|PASZPa4YN5D8IInDe8vqElblTS6lqRQk1f0IouE0dQ",
+        "assemblyName": "Studio.Generated.TypedDataTable1"
+      }
+    }
+  ]
+}

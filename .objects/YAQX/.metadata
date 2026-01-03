@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Logs in to ACME System 1",
+  "Type": "App",
+  "Id": "YAQXJayawU-VxCJgtZuBMg",
+  "Reference": "NQhEiDNPK020tb7lokvukg/YAQXJayawU-VxCJgtZuBMg",
+  "Created": "2025-12-26T17:31:43.9358285Z",
+  "Updated": "2025-12-26T17:31:43.9358285Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.22.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
